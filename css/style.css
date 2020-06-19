@@ -1,0 +1,14 @@
+header {
+    background: #2c3e50;
+    color: white;
+}
+
+.col-xs-12 p {
+    float: left;
+
+}
+
+.Nav-b-bottom  {
+    background-color: #1abc9c;
+    color: white;
+}
