@@ -1,6 +1,12 @@
-header {
-    background-color: #2c3e50;
-    color: white;
+
+.boo_navbar {
+  background-color: #2c3e50;
+  font-weight: bold;
+}
+
+.boo_navbar a.navbar-brand,
+.boo_navbar .nav li a {
+  color: white;
 }
 
 section {
@@ -15,6 +21,10 @@ section {
 
 .smile {
     max-width: 250px;
+}
+
+.col-xs-12 {
+    margin-top: 30px;
 }
 
 .boo_star .glyphicon-star {
